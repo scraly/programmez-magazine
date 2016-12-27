@@ -4,7 +4,7 @@ Dossiers et articles publiés dans le magazine Programmez :
 * Décembre 2016 - [n°202](http://www.programmez.com/magazine/programmez-202-pdf) :<br/>
 Coordination du dossier "Apprendre le code aux enfants" et rédaction de plusieurs articles du dossier.
 
-* Juillet-Aout 2016 - [n°198](//www.programmez.com/magazine/programmez-198-pdf) :<br/>
+* Juillet-Aout 2016 - [n°198](http://www.programmez.com/magazine/programmez-198-pdf) :<br/>
 Interview de Joel Spolsky.
 
 * Mai 2016  - [n°196](http://www.programmez.com/magazine/programmez-196-pdf) :<br/>
