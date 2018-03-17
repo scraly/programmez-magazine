@@ -1,7 +1,10 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
-* Juin 2017 - [n°208](//www.programmez.com/magazine/programmez-208-pdf) :<br/>
+* Janvier 2018 - [n°214](http://www.programmez.com/magazine/programmez-214-pdf) : <br/>
+Rédaction de l'article "Infrastructure as Code avec Terraform"
+
+* Juin 2017 - [n°208](http://www.programmez.com/magazine/programmez-208-pdf) :<br/>
 Rédaction de l'article "La reconnaissance d’images à portée de main avec l’API Cloud Vision de Google"
 
 * Décembre 2016 - [n°202](http://www.programmez.com/magazine/programmez-202-pdf) :<br/>
