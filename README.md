@@ -1,6 +1,9 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
+* Juillet-Aout 2018 - [n°220](http://www.programmez.com/magazine/programmez-220-pdf) : <br/>
+Rédaction de l'article "SteamDecks : une plateforme pour apprendre en s’amusant"
+
 * Janvier 2018 - [n°214](http://www.programmez.com/magazine/programmez-214-pdf) : <br/>
 Rédaction de l'article "Infrastructure as Code avec Terraform"
 
