@@ -1,6 +1,9 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
+* Février 2019 - [n°226](https://www.programmez.com/magazine/programmez-226-pdf) : <br/>
+Rédaction de la fiche technique "Terraform CLI Cheat Sheet"
+
 * Juillet-Aout 2018 - [n°220](http://www.programmez.com/magazine/programmez-220-pdf) : <br/>
 Rédaction de l'article "SteamDecks : une plateforme pour apprendre en s’amusant"
 
