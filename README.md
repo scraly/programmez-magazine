@@ -1,6 +1,12 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
+* Juin 2019 - [n°230](https://www.programmez.com/magazine/article/je-crée-ma-CLI-en-Go-en-quelques-minutes) : <br/>
+Rédaction de l'article "Je crée ma CLI en Go en quelques minutes" 
+
+* Mars 2019- [n°228](https://www.programmez.com/magazine/programmez-228-pdf) : <br/>
+Rédaction de l'article "Terraform Advanced : jouons avec les data external de Terraform" 
+
 * Février 2019 - [n°226](https://www.programmez.com/magazine/programmez-226-pdf) : <br/>
 Rédaction de la fiche technique "Terraform CLI Cheat Sheet"
 
