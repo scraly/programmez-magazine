@@ -1,7 +1,7 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
-* Janvier 2020 - [n°236](https://www.programmez.com/magazine/programmez-2236-pdf) : <br/>
+* Janvier 2020 - [n°236](https://www.programmez.com/magazine/programmez-236-pdf) : <br/>
 Numéro spécial Duchess France
 Rédactrice en chef et rédaction de plusieurs articles pour le numéro 236 du magazine Programmez 
 
