@@ -1,6 +1,10 @@
 # programmez-magazine
 Dossiers et articles publiés dans le magazine Programmez :
 
+* Janvier 2020 - [n°236](https://www.programmez.com/magazine/programmez-2236-pdf) : <br/>
+Numéro spécial Duchess France
+Rédactrice en chef et rédaction de plusieurs articles pour le numéro 236 du magazine Programmez 
+
 * Juin 2019 - [n°230](https://www.programmez.com/magazine/article/je-crée-ma-CLI-en-Go-en-quelques-minutes) : <br/>
 Rédaction de l'article "Je crée ma CLI en Go en quelques minutes" 
 
